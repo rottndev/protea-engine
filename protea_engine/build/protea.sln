@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "protea", "protea.vcproj", "{7F95F27D-3F1A-4C68-8FC9-40DBDDA3FAA5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DeviceInputTest", "DeviceInputTest.vcproj", "{2D8ABF2D-A92C-4D4D-B85F-54E26CDE6F29}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "proteaViewer", "proteaViewer.vcproj", "{9CFE12D3-27D6-49A9-933E-76F2E199207A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F95F27D-3F1A-4C68-8FC9-40DBDDA3FAA5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7F95F27D-3F1A-4C68-8FC9-40DBDDA3FAA5}.Debug|Win32.Build.0 = Debug|Win32
+		{7F95F27D-3F1A-4C68-8FC9-40DBDDA3FAA5}.Release|Win32.ActiveCfg = Release|Win32
+		{7F95F27D-3F1A-4C68-8FC9-40DBDDA3FAA5}.Release|Win32.Build.0 = Release|Win32
+		{2D8ABF2D-A92C-4D4D-B85F-54E26CDE6F29}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2D8ABF2D-A92C-4D4D-B85F-54E26CDE6F29}.Debug|Win32.Build.0 = Debug|Win32
+		{2D8ABF2D-A92C-4D4D-B85F-54E26CDE6F29}.Release|Win32.ActiveCfg = Release|Win32
+		{2D8ABF2D-A92C-4D4D-B85F-54E26CDE6F29}.Release|Win32.Build.0 = Release|Win32
+		{9CFE12D3-27D6-49A9-933E-76F2E199207A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9CFE12D3-27D6-49A9-933E-76F2E199207A}.Debug|Win32.Build.0 = Debug|Win32
+		{9CFE12D3-27D6-49A9-933E-76F2E199207A}.Release|Win32.ActiveCfg = Release|Win32
+		{9CFE12D3-27D6-49A9-933E-76F2E199207A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
