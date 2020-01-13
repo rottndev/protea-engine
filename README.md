@@ -1,4 +1,4 @@
-<p align="center">Uploaded and archived due to source is no longer available. (www.viremo.de)<b /><br />
+<p align="center">Uploaded due to source is no longer available. (www.viremo.de)<b /><br />
 
 <img src="protea_128.png" />
 </p>
